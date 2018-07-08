@@ -1,0 +1,31 @@
+.User-Nav {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  border-bottom: 1px solid #EBEDF0;
+}
+
+.User-Nav-Title {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.User-Avatar {
+  border-radius: 100%;
+  width: 130px;
+  height: 130px;
+}
+
+.User-Info-Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.User-Name {
+  font-weight: lighter;
+  color: #262626; 
+}

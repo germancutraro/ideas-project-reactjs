@@ -1,0 +1,30 @@
+.Idea-Wrapper {
+  border: 1px solid #EBEDF0;
+}
+
+.Idea {
+  padding-left: 20.7rem;
+  padding-right: 20.7rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.Idea-Footer {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  margin-bottom: 0;
+  border-top: 1px solid #EBEDF0;
+}
+
+.Idea-User-Avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  padding: 10px;
+}
+
+.Idea-User-Name {
+  color: #ACACAC;
+  padding-left: 3px;
+}
